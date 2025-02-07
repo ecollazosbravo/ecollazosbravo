@@ -24,8 +24,8 @@ Here are some of the languages and technologies I use:
 
 ## Contact
 
-- **Email**: your.email@example.com
-- **LinkedIn**: Your Profile
+- **Email**: ecollazosbravo@gmail.com
+- **LinkedIn**: [Emmanuel Collazos Bravo](https://www.linkedin.com/in/ecollazosbravo/)
 - **Twitter**: @your_username
 
 Thank you for visiting my profile!
