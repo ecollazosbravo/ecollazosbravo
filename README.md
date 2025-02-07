@@ -17,14 +17,15 @@ On this GitHub, you can explore a variety of projects that cover:
 
 Here are some of the languages and technologies I use:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> Python
 
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) 
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) 
-![Power Apps](https://upload.wikimedia.org/wikipedia/commons/4/42/Microsoft_PowerApps_logo.png) 
-![SharePoint](https://upload.wikimedia.org/wikipedia/commons/4/40/Microsoft_Office_SharePoint_%282019-present%29.svg) 
-![R](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg) 
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Microsoft_PowerApps_logo.png" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Microsoft_Office_SharePoint_%282019-present%29.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+</p>
 
 ## Contact
 
