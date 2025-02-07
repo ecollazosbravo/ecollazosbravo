@@ -6,6 +6,8 @@ I'm [Emmanuel Collazos], a passionate software developer with interests in vario
 
 On this GitHub, you can explore a variety of projects that cover:
 
+- **Full-Stack Projects**: Applications that showcase my skills in both front-end and back-end development.
+- **Algorithm Coding**: Solutions and implementations of various algorithms and data structures.
 - **Game Development**: Projects that showcase my creativity and skills in creating interactive experiences.
 - **Interaction Projects**: Applications and tools designed to enhance user interaction.
 - **Automation**: Scripts and tools to automate tasks and improve productivity.
