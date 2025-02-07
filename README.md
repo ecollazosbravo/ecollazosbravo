@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [Emmanuel Collazos], a passionate software developer with interests in various areas such as game development, interaction projects, and more. Here you'll find a collection of my work and contributions.
+I'm Emmanuel Collazos, a passionate software developer with interests in various areas such as game development, interaction projects, and more. Here you'll find a collection of my work and contributions.
 
 ## About My GitHub
 
@@ -17,18 +17,17 @@ On this GitHub, you can explore a variety of projects that cover:
 
 Here are some of the languages and technologies I use:
 
-!Python
-!C++
-!Power Apps
-!SharePoint
-!R
-!React
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)  
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)  
+![Power Apps](https://upload.wikimedia.org/wikipedia/commons/4/42/Microsoft_PowerApps_logo.png)  
+![SharePoint](https://upload.wikimedia.org/wikipedia/commons/4/40/Microsoft_Office_SharePoint_%282019-present%29.svg)  
+![R](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg)  
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)  
 
 ## Contact
 
 - **Email**: ecollazosbravo@gmail.com
 - **LinkedIn**: [Emmanuel Collazos Bravo](https://www.linkedin.com/in/ecollazosbravo/)
-- **Twitter**: @your_username
 
 Thank you for visiting my profile!
 
