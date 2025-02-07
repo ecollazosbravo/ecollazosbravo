@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [Your Name], a passionate software developer with interests in various areas such as game development, interaction projects, and more. Here you'll find a collection of my work and contributions.
+I'm [Emmanuel Collazos], a passionate software developer with interests in various areas such as game development, interaction projects, and more. Here you'll find a collection of my work and contributions.
 
 ## About My GitHub
 
