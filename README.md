@@ -17,12 +17,12 @@ On this GitHub, you can explore a variety of projects that cover:
 
 Here are some of the languages and technologies I use:
 
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)  
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)  
-![Power Apps](https://upload.wikimedia.org/wikipedia/commons/4/42/Microsoft_PowerApps_logo.png)  
-![SharePoint](https://upload.wikimedia.org/wikipedia/commons/4/40/Microsoft_Office_SharePoint_%282019-present%29.svg)  
-![R](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg)  
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)  
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) 
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) 
+![Power Apps](https://upload.wikimedia.org/wikipedia/commons/4/42/Microsoft_PowerApps_logo.png) 
+![SharePoint](https://upload.wikimedia.org/wikipedia/commons/4/40/Microsoft_Office_SharePoint_%282019-present%29.svg) 
+![R](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg) 
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) 
 
 ## Contact
 
