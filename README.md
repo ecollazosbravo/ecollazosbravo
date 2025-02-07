@@ -17,6 +17,8 @@ On this GitHub, you can explore a variety of projects that cover:
 
 Here are some of the languages and technologies I use:
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> Python
+
 ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) 
 ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) 
 ![Power Apps](https://upload.wikimedia.org/wikipedia/commons/4/42/Microsoft_PowerApps_logo.png) 
