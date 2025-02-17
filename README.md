@@ -21,8 +21,6 @@ Here are some of the languages and technologies I use:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Microsoft_PowerApps_logo.png" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Microsoft_Office_SharePoint_%282019-present%29.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 </p>
